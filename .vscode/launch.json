@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-StyleTransferBackendApplication<gan>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ganbackend.gan.StyleTransferBackendApplication",
+            "projectName": "gan",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

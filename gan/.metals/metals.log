@@ -1,0 +1,661 @@
+2026.04.19 13:39:24 INFO  Started: Metals version 1.6.7 in folders '/home/yaroslav/Bureau/ganBackend/gan' for client Visual Studio Code 1.116.0.
+2026.04.19 13:39:24 INFO  Memory monitor started
+2026.04.19 13:39:24 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.19 13:39:24 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:25 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:25 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:25 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+avr. 19, 2026 1:39:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 16
+2026.04.19 13:39:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+avr. 19, 2026 1:39:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 15
+2026.04.19 13:39:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:28 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java
+2026.04.19 13:39:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:28 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/GanApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:28 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/StyleTransferBackendApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:28 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/StyleTransferBackendApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:28 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/StyleTransferBackendApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:28 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/StyleTransferBackendApplication.java. Using fallback presentation compiler.
+2026.04.19 13:39:28 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/StyleTransferBackendApplication.java. Using fallback presentation compiler.
+2026.04.19 13:40:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:53 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java
+2026.04.19 13:40:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/StyleTransferBackendApplication.java. Using fallback presentation compiler.
+2026.04.19 13:40:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:56 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:56 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:56 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:56 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:56 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:57 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java
+2026.04.19 13:40:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:59 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:59 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:40:59 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:00 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:00 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:01 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:01 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:01 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:03 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:03 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:03 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:03 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:03 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:04 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:04 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:04 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:04 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:04 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:04 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:05 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:05 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java
+2026.04.19 13:41:05 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:06 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:06 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:06 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:06 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:07 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:07 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:07 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:07 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:07 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:07 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:07 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:07 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:08 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:09 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:09 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:10 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java
+2026.04.19 13:41:10 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:09 WARN  Running javac-semanticdb failed for file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Output:
+
+2026.04.19 13:41:10 INFO  Created report: Optional[file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java]
+2026.04.19 13:41:10 INFO  QDox parse error in file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java (full report at: "/home/yaroslav/Bureau/ganBackend/gan/.metals/.reports/metals-full/2026-04-19/r_qdox-error_13-41-10-014.md")
+2026.04.19 13:41:11 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:11 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:11 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:11 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:11 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:12 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java
+2026.04.19 13:41:12 INFO  QDox parse error in file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java (full report at: "/home/yaroslav/Bureau/ganBackend/gan/.metals/.reports/metals-full/2026-04-19/r_qdox-error_13-41-10-014.md")
+2026.04.19 13:41:12 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:12 WARN  Running javac-semanticdb failed for file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Output:
+
+2026.04.19 13:41:13 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:13 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:14 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:14 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:14 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:14 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:14 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:14 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:15 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:15 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:15 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:15 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java
+2026.04.19 13:41:15 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:16 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:16 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:16 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:16 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:17 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:17 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:17 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:19 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:19 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:20 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:26 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:26 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:26 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:26 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:26 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:26 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:26 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:28 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:28 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:29 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:29 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:29 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:29 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:29 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:29 INFO  Created report: Optional[file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java]
+2026.04.19 13:41:29 INFO  empty definition using pc, found symbol in pc: lombok/RequiredArgsConstructor# (full report at: "/home/yaroslav/Bureau/ganBackend/gan/.metals/.reports/metals-full/2026-04-19/r_empty-definition_13-41-29-605.md")
+2026.04.19 13:41:29 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:29 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:29 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java
+2026.04.19 13:41:30 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:30 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:30 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:30 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:30 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:30 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:31 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:31 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:31 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:31 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:33 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java
+2026.04.19 13:41:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:35 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:35 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java
+2026.04.19 13:41:35 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:35 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:35 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:35 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:42 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:42 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:42 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:48 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java
+2026.04.19 13:41:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:41:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:42:12 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:42:25 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:25 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java
+2026.04.19 13:42:25 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/controller/StyleTransferController.java. Using fallback presentation compiler.
+2026.04.19 13:42:25 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:25 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:26 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:26 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:28 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:28 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:28 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:28 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java
+2026.04.19 13:42:28 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:34 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java
+2026.04.19 13:42:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:37 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java
+2026.04.19 13:42:37 INFO  Created report: Optional[file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java]
+2026.04.19 13:42:37 INFO  QDox parse error in file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java (full report at: "/home/yaroslav/Bureau/ganBackend/gan/.metals/.reports/metals-full/2026-04-19/r_qdox-error_13-42-37-459.md")
+2026.04.19 13:42:37 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:37 WARN  Running javac-semanticdb failed for file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Output:
+
+2026.04.19 13:42:37 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:37 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:37 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:37 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:37 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:38 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java
+2026.04.19 13:42:38 INFO  QDox parse error in file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java (full report at: "/home/yaroslav/Bureau/ganBackend/gan/.metals/.reports/metals-full/2026-04-19/r_qdox-error_13-42-37-459.md")
+2026.04.19 13:42:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:38 WARN  Running javac-semanticdb failed for file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Output:
+
+2026.04.19 13:42:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:39 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:39 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:40 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java
+2026.04.19 13:42:40 INFO  QDox parse error in file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java (full report at: "/home/yaroslav/Bureau/ganBackend/gan/.metals/.reports/metals-full/2026-04-19/r_qdox-error_13-42-37-459.md")
+2026.04.19 13:42:40 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:40 WARN  Running javac-semanticdb failed for file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Output:
+
+2026.04.19 13:42:39 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:39 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:39 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:40 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:41 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:41 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:41 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:41 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:41 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:42 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java
+2026.04.19 13:42:42 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:42 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:42 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:52 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:52 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:52 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java
+2026.04.19 13:42:52 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:52 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:52 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:52 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:54 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:54 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:54 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:54 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:56 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java
+2026.04.19 13:42:56 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:58 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java
+2026.04.19 13:42:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:59 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:59 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:59 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:59 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:42:59 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:00 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java
+2026.04.19 13:43:00 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:01 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:01 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:01 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:01 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:02 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:02 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:02 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:02 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:02 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:02 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:03 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:03 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:03 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:03 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java
+2026.04.19 13:43:03 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:04 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:26 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:37 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:37 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java
+2026.04.19 13:43:37 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/service/StyleTransferService.java. Using fallback presentation compiler.
+2026.04.19 13:43:37 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:39 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:39 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:39 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:40 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:40 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java
+2026.04.19 13:43:40 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:46 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java
+2026.04.19 13:43:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:50 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java
+2026.04.19 13:43:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:43:52 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:44:12 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:12 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java
+2026.04.19 13:44:12 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/entity/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:44:13 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:13 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:14 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:14 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:14 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:14 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:14 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java
+2026.04.19 13:44:15 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:15 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:44:15 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:14 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:44:15 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistory.java. Using fallback presentation compiler.
+2026.04.19 13:44:15 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:16 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:23 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:23 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:23 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:24 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:24 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:25 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java
+2026.04.19 13:44:24 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:31 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:31 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:32 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:33 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:34 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:35 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:36 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:37 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:37 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java
+2026.04.19 13:44:37 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:37 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:40 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:40 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:42 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:42 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:46 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java
+2026.04.19 13:44:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:49 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:50 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java
+2026.04.19 13:44:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:52 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:52 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:52 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:54 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java
+2026.04.19 13:44:54 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:54 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:54 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:54 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:54 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:55 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:44:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:45:08 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:45:22 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:22 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java
+2026.04.19 13:45:22 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/repository/TransferHistoryRepository.java. Using fallback presentation compiler.
+2026.04.19 13:45:22 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:22 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:22 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:23 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:23 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:23 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:23 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:24 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:23 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:24 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java
+2026.04.19 13:45:24 INFO  Created report: Optional[file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java]
+2026.04.19 13:45:24 INFO  QDox parse error in file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java (full report at: "/home/yaroslav/Bureau/ganBackend/gan/.metals/.reports/metals-full/2026-04-19/r_qdox-error_13-45-24-949.md")
+2026.04.19 13:45:24 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:24 WARN  Running javac-semanticdb failed for file:///home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Output:
+
+2026.04.19 13:45:25 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:25 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:25 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:25 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:25 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:26 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java
+2026.04.19 13:45:26 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:27 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:38 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:39 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java
+2026.04.19 13:45:39 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:39 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferhistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:39 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:41 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:41 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:43 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:44 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:45 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:46 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:47 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java
+2026.04.19 13:45:47 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:48 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:50 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:51 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:53 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:54 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+avr. 19, 2026 1:45:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 945
+2026.04.19 13:45:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:57 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:58 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:59 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:59 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:59 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:45:59 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:46:00 WARN  no build target for: /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java
+2026.04.19 13:46:00 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:46:01 INFO  no build target found for /home/yaroslav/Bureau/ganBackend/gan/src/main/java/com/ganbackend/gan/dto/TransferHistoryDto.java. Using fallback presentation compiler.
+2026.04.19 13:46:04 INFO  Shutting down server
+2026.04.19 13:46:04 INFO  Memory monitor stopped
+2026.04.19 13:46:04 INFO  shutting down Metals
+2026.04.19 13:46:04 INFO  Exiting server

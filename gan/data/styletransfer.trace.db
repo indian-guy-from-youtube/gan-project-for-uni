@@ -1,0 +1,8 @@
+2026-04-19 13:52:34.758093+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valeur trop longue pour la colonne "ERROR_MESSAGE CHARACTER VARYING(500)": "'500 INTERNAL SERVER ERROR: ""{""error"":""\\u0412\\u043d\\u0443\\u0442\\u0440\\u0435\\u043... (2687)"
+Value too long for column "ERROR_MESSAGE CHARACTER VARYING(500)": "'500 INTERNAL SERVER ERROR: ""{""error"":""\\u0412\\u043d\\u0443\\u0442\\u0440\\u0435\\u043... (2687)"; SQL statement:
+insert into transfer_history (created_at,error_message,original_filename,output_size,processing_time_ms,result_size_bytes,style,success,id) values (?,?,?,?,?,?,?,?,default) [22001-224]
+2026-04-19 13:56:02.379887+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valeur trop longue pour la colonne "ERROR_MESSAGE CHARACTER VARYING(500)": "'500 INTERNAL SERVER ERROR: ""{""error"":""\\u0412\\u043d\\u0443\\u0442\\u0440\\u0435\\u043... (3478)"
+Value too long for column "ERROR_MESSAGE CHARACTER VARYING(500)": "'500 INTERNAL SERVER ERROR: ""{""error"":""\\u0412\\u043d\\u0443\\u0442\\u0440\\u0435\\u043... (3478)"; SQL statement:
+insert into transfer_history (created_at,error_message,original_filename,output_size,processing_time_ms,result_size_bytes,style,success,id) values (?,?,?,?,?,?,?,?,default) [22001-224]
