@@ -1,0 +1,281 @@
+/* ═══════════════════════════════════════════════════════
+   ArtStyle — Light Theme
+   Чистый, профессиональный интерфейс с акцентом на контент
+   ═══════════════════════════════════════════════════════ */
+
+/* ─── Переменные ───────────────────────────────────────── */
+* {
+    -col-bg:       #F7F6F3;
+    -col-surface:  #FFFFFF;
+    -col-border:   #E2DFD8;
+    -col-text:     #1A1917;
+    -col-muted:    #7A7670;
+    -col-accent:   #2D6A4F;
+    -col-accent-h: #1E4D38;
+    -col-primary:  #3D3A36;
+    -col-highlight:#FFF8EE;
+    -fx-font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+/* ─── Root ─────────────────────────────────────────────── */
+.root-pane {
+    -fx-background-color: -col-bg;
+}
+
+/* ─── Header ───────────────────────────────────────────── */
+.header {
+    -fx-background-color: -col-surface;
+    -fx-border-color: -col-border;
+    -fx-border-width: 0 0 1 0;
+}
+
+.header-title {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: -col-text;
+    -fx-font-family: "Georgia", "Times New Roman", serif;
+}
+
+.header-subtitle {
+    -fx-font-size: 11px;
+    -fx-text-fill: -col-muted;
+    -fx-font-style: italic;
+}
+
+.header-badge {
+    -fx-font-size: 10px;
+    -fx-text-fill: -col-muted;
+    -fx-background-color: -col-bg;
+    -fx-background-radius: 4;
+    -fx-padding: 4 8 4 8;
+    -fx-border-color: -col-border;
+    -fx-border-radius: 4;
+    -fx-border-width: 1;
+}
+
+/* ─── Left Panel ───────────────────────────────────────── */
+.left-panel {
+    -fx-background-color: -col-surface;
+    -fx-border-color: -col-border;
+    -fx-border-width: 0 1 0 0;
+    -fx-min-width: 210px;
+    -fx-max-width: 210px;
+}
+
+.section-label {
+    -fx-font-size: 10px;
+    -fx-font-weight: bold;
+    -fx-text-fill: -col-muted;
+    -fx-letter-spacing: 1.2;
+}
+
+.hint-label {
+    -fx-font-size: 10px;
+    -fx-text-fill: -col-muted;
+    -fx-font-style: italic;
+}
+
+.size-label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: -col-text;
+    -fx-min-width: 54px;
+}
+
+/* ─── Стиль-карточки ───────────────────────────────────── */
+.style-card {
+    -fx-background-color: -col-bg;
+    -fx-background-radius: 8;
+    -fx-border-color: -col-border;
+    -fx-border-radius: 8;
+    -fx-border-width: 1.5;
+    -fx-cursor: hand;
+    -fx-padding: 8 10 8 10;
+}
+
+.style-card:hover {
+    -fx-background-color: -col-highlight;
+    -fx-border-color: #A0C4AD;
+}
+
+.style-card-selected {
+    -fx-background-color: #E8F5EE;
+    -fx-border-color: -col-accent;
+    -fx-border-width: 2;
+}
+
+.style-card-name {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: -col-text;
+}
+
+.style-card-desc {
+    -fx-font-size: 9px;
+    -fx-text-fill: -col-muted;
+    -fx-wrap-text: true;
+}
+
+/* ─── Buttons ──────────────────────────────────────────── */
+.btn-primary {
+    -fx-background-color: -col-primary;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 6;
+    -fx-padding: 9 14 9 14;
+    -fx-cursor: hand;
+    -fx-border-width: 0;
+}
+
+.btn-primary:hover {
+    -fx-background-color: #555250;
+}
+
+.btn-primary:disabled {
+    -fx-background-color: #C5C2BC;
+    -fx-text-fill: #8A8782;
+}
+
+.btn-accent {
+    -fx-background-color: -col-accent;
+    -fx-text-fill: white;
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-padding: 11 14 11 14;
+    -fx-cursor: hand;
+    -fx-border-width: 0;
+    -fx-effect: dropshadow(gaussian, rgba(45,106,79,0.25), 8, 0, 0, 2);
+}
+
+.btn-accent:hover {
+    -fx-background-color: -col-accent-h;
+}
+
+.btn-accent:disabled {
+    -fx-background-color: #A8C5B5;
+    -fx-text-fill: #D0E4DA;
+    -fx-effect: none;
+}
+
+.btn-secondary {
+    -fx-background-color: -col-surface;
+    -fx-text-fill: -col-text;
+    -fx-font-size: 12px;
+    -fx-background-radius: 6;
+    -fx-padding: 8 14 8 14;
+    -fx-cursor: hand;
+    -fx-border-color: -col-border;
+    -fx-border-radius: 6;
+    -fx-border-width: 1.5;
+}
+
+.btn-secondary:hover {
+    -fx-background-color: -col-bg;
+    -fx-border-color: -col-primary;
+}
+
+.btn-secondary:disabled {
+    -fx-text-fill: -col-muted;
+    -fx-border-color: -col-border;
+    -fx-background-color: -col-bg;
+}
+
+/* ─── Images Area ──────────────────────────────────────── */
+.images-area {
+    -fx-background-color: -col-bg;
+}
+
+.image-card {
+    -fx-background-color: -col-surface;
+    -fx-background-radius: 10;
+    -fx-border-color: -col-border;
+    -fx-border-radius: 10;
+    -fx-border-width: 1.5;
+    -fx-padding: 14;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.06), 10, 0, 0, 2);
+}
+
+.image-card-title {
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-text-fill: -col-text;
+}
+
+.image-frame {
+    -fx-background-color: -col-bg;
+    -fx-background-radius: 6;
+    -fx-border-color: -col-border;
+    -fx-border-radius: 6;
+    -fx-border-width: 1;
+    -fx-min-height: 340;
+}
+
+.placeholder-label {
+    -fx-font-size: 13px;
+    -fx-text-fill: -col-muted;
+    -fx-font-style: italic;
+}
+
+.arrow-label {
+    -fx-font-size: 22px;
+    -fx-text-fill: -col-border;
+}
+
+.time-label {
+    -fx-font-size: 11px;
+    -fx-text-fill: -col-accent;
+    -fx-font-weight: bold;
+}
+
+/* ─── Progress ─────────────────────────────────────────── */
+.progress-indicator {
+    -fx-progress-color: -col-accent;
+}
+
+/* ─── Slider ───────────────────────────────────────────── */
+.slider .track {
+    -fx-background-color: -col-border;
+    -fx-background-radius: 3;
+    -fx-pref-height: 4;
+}
+
+.slider .thumb {
+    -fx-background-color: -col-accent;
+    -fx-background-radius: 8;
+    -fx-pref-width: 16;
+    -fx-pref-height: 16;
+}
+
+/* ─── Separator ────────────────────────────────────────── */
+.separator .line {
+    -fx-border-color: -col-border;
+}
+
+/* ─── Status Bar ───────────────────────────────────────── */
+.status-bar {
+    -fx-background-color: -col-surface;
+    -fx-border-color: -col-border;
+    -fx-border-width: 1 0 0 0;
+}
+
+.status-dot {
+    -fx-font-size: 10px;
+    -fx-text-fill: -col-accent;
+}
+
+.status-label {
+    -fx-font-size: 11px;
+    -fx-text-fill: -col-muted;
+}
+
+/* ─── ScrollPane ───────────────────────────────────────── */
+.scroll-pane {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
+.scroll-pane > .viewport {
+    -fx-background-color: transparent;
+}

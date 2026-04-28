@@ -1,0 +1,263 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "style-transfer-client-test",
+        "directory": "/home/yaroslav/Téléchargements/frontjavafx",
+        "workspaceDir": "/home/yaroslav/Téléchargements/frontjavafx",
+        "sources": [
+            
+        ],
+        "dependencies": [
+            "style-transfer-client"
+        ],
+        "classpath": [
+            "/home/yaroslav/Téléchargements/frontjavafx/target/test-classes",
+            "/home/yaroslav/Téléchargements/frontjavafx/target/classes",
+            "/home/yaroslav/.m2/repository/org/openjfx/javafx-controls/21.0.2/javafx-controls-21.0.2.jar",
+            "/home/yaroslav/.m2/repository/org/openjfx/javafx-controls/21.0.2/javafx-controls-21.0.2-linux.jar",
+            "/home/yaroslav/.m2/repository/org/openjfx/javafx-graphics/21.0.2/javafx-graphics-21.0.2.jar",
+            "/home/yaroslav/.m2/repository/org/openjfx/javafx-graphics/21.0.2/javafx-graphics-21.0.2-linux.jar",
+            "/home/yaroslav/.m2/repository/org/openjfx/javafx-base/21.0.2/javafx-base-21.0.2.jar",
+            "/home/yaroslav/.m2/repository/org/openjfx/javafx-base/21.0.2/javafx-base-21.0.2-linux.jar",
+            "/home/yaroslav/.m2/repository/org/openjfx/javafx-fxml/21.0.2/javafx-fxml-21.0.2.jar",
+            "/home/yaroslav/.m2/repository/org/openjfx/javafx-fxml/21.0.2/javafx-fxml-21.0.2-linux.jar",
+            "/home/yaroslav/.m2/repository/org/openjfx/javafx-swing/21.0.2/javafx-swing-21.0.2.jar",
+            "/home/yaroslav/.m2/repository/org/openjfx/javafx-swing/21.0.2/javafx-swing-21.0.2-linux.jar"
+        ],
+        "out": "/home/yaroslav/Téléchargements/frontjavafx/target",
+        "classesDir": "/home/yaroslav/Téléchargements/frontjavafx/target/test-classes",
+        "resources": [
+            "/home/yaroslav/Téléchargements/frontjavafx/src/test/resources"
+        ],
+        "java": {
+            "options": [
+                "-g",
+                "-target",
+                "21",
+                "-source",
+                "21",
+                "-encoding",
+                "UTF-8"
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework",
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "utest.runner.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "mill.testng.TestNGFramework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    {
+                        "args": [
+                            "-v",
+                            "-a"
+                        ],
+                        "framework": {
+                            "names": [
+                                "com.novocode.junit.JUnitFramework"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "/usr/lib/jvm/java-21-openjdk-amd64",
+                "options": [
+                    
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-base",
+                    "version": "21.0.2",
+                    "artifacts": [
+                        {
+                            "name": "javafx-base",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-base/21.0.2/javafx-base-21.0.2.jar"
+                        },
+                        {
+                            "name": "javafx-base",
+                            "classifier": "sources",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-base/21.0.2/javafx-base-21.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-swing",
+                    "version": "21.0.2",
+                    "artifacts": [
+                        {
+                            "name": "javafx-swing",
+                            "classifier": "linux",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-swing/21.0.2/javafx-swing-21.0.2-linux.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-controls",
+                    "version": "21.0.2",
+                    "artifacts": [
+                        {
+                            "name": "javafx-controls",
+                            "classifier": "linux",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-controls/21.0.2/javafx-controls-21.0.2-linux.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-swing",
+                    "version": "21.0.2",
+                    "artifacts": [
+                        {
+                            "name": "javafx-swing",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-swing/21.0.2/javafx-swing-21.0.2.jar"
+                        },
+                        {
+                            "name": "javafx-swing",
+                            "classifier": "sources",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-swing/21.0.2/javafx-swing-21.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-graphics",
+                    "version": "21.0.2",
+                    "artifacts": [
+                        {
+                            "name": "javafx-graphics",
+                            "classifier": "linux",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-graphics/21.0.2/javafx-graphics-21.0.2-linux.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-base",
+                    "version": "21.0.2",
+                    "artifacts": [
+                        {
+                            "name": "javafx-base",
+                            "classifier": "linux",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-base/21.0.2/javafx-base-21.0.2-linux.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-graphics",
+                    "version": "21.0.2",
+                    "artifacts": [
+                        {
+                            "name": "javafx-graphics",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-graphics/21.0.2/javafx-graphics-21.0.2.jar"
+                        },
+                        {
+                            "name": "javafx-graphics",
+                            "classifier": "sources",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-graphics/21.0.2/javafx-graphics-21.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-fxml",
+                    "version": "21.0.2",
+                    "artifacts": [
+                        {
+                            "name": "javafx-fxml",
+                            "classifier": "linux",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-fxml/21.0.2/javafx-fxml-21.0.2-linux.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-fxml",
+                    "version": "21.0.2",
+                    "artifacts": [
+                        {
+                            "name": "javafx-fxml",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-fxml/21.0.2/javafx-fxml-21.0.2.jar"
+                        },
+                        {
+                            "name": "javafx-fxml",
+                            "classifier": "sources",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-fxml/21.0.2/javafx-fxml-21.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.openjfx",
+                    "name": "javafx-controls",
+                    "version": "21.0.2",
+                    "artifacts": [
+                        {
+                            "name": "javafx-controls",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-controls/21.0.2/javafx-controls-21.0.2.jar"
+                        },
+                        {
+                            "name": "javafx-controls",
+                            "classifier": "sources",
+                            "path": "/home/yaroslav/.m2/repository/org/openjfx/javafx-controls/21.0.2/javafx-controls-21.0.2-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "test"
+        ]
+    }
+}

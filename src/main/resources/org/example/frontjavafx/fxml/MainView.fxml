@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="org.example.frontjavafx.app.MainController"
+            styleClass="root-pane">
+
+    <!-- ═══ HEADER ═══════════════════════════════════════════════ -->
+    <top>
+        <HBox styleClass="header" alignment="CENTER_LEFT" spacing="12">
+            <padding><Insets top="16" right="24" bottom="16" left="24"/></padding>
+            <Label text="🎨" style="-fx-font-size: 22;"/>
+            <VBox spacing="0">
+                <Label text="ArtStyle" styleClass="header-title"/>
+                <Label text="Neural Style Transfer" styleClass="header-subtitle"/>
+            </VBox>
+            <Region HBox.hgrow="ALWAYS"/>
+            <Label text="Python · Spring · JavaFX" styleClass="header-badge"/>
+        </HBox>
+    </top>
+
+    <!-- ═══ MAIN CONTENT ══════════════════════════════════════════ -->
+    <center>
+        <HBox spacing="0" styleClass="content-area">
+
+            <!-- ── Левая панель: настройки ─────────────────────── -->
+            <VBox styleClass="left-panel" spacing="20" minWidth="200" maxWidth="220">
+                <padding><Insets top="24" right="16" bottom="24" left="20"/></padding>
+
+                <!-- Загрузка -->
+                <VBox spacing="8">
+                    <Label text="ИЗОБРАЖЕНИЕ" styleClass="section-label"/>
+                    <Button fx:id="uploadButton" text="📁  Загрузить фото"
+                            styleClass="btn-primary" maxWidth="Infinity"
+                            onAction="#onUploadImage"/>
+                </VBox>
+
+                <Separator/>
+
+                <!-- Стиль -->
+                <VBox spacing="10">
+                    <Label text="СТИЛЬ" styleClass="section-label"/>
+                    <FlowPane fx:id="stylesPane" hgap="8" vgap="8"/>
+                </VBox>
+
+                <Separator/>
+
+                <!-- Размер -->
+                <VBox spacing="8">
+                    <Label text="РАЗМЕР ВЫХОДА" styleClass="section-label"/>
+                    <HBox alignment="CENTER_LEFT" spacing="8">
+                        <Slider fx:id="sizeSlider" HBox.hgrow="ALWAYS"/>
+                        <Label fx:id="sizeLabel" styleClass="size-label" minWidth="54"/>
+                    </HBox>
+                    <Label text="Меньше = быстрее" styleClass="hint-label"/>
+                </VBox>
+
+                <Region VBox.vgrow="ALWAYS"/>
+
+                <!-- Кнопка запуска -->
+                <Button fx:id="transferButton" text="✨  Применить стиль"
+                        styleClass="btn-accent" maxWidth="Infinity"
+                        onAction="#onTransferStyle"/>
+            </VBox>
+
+            <!-- ── Центр: изображения ──────────────────────────── -->
+            <VBox HBox.hgrow="ALWAYS" styleClass="images-area" spacing="16">
+                <padding><Insets top="24" right="24" bottom="16" left="24"/></padding>
+
+                <HBox spacing="16" VBox.vgrow="ALWAYS">
+
+                    <!-- Оригинал -->
+                    <VBox styleClass="image-card" HBox.hgrow="ALWAYS" spacing="8">
+                        <HBox alignment="CENTER_LEFT" spacing="8">
+                            <Label text="Оригинал" styleClass="image-card-title"/>
+                        </HBox>
+                        <StackPane VBox.vgrow="ALWAYS" styleClass="image-frame">
+                            <ImageView fx:id="originalImageView"
+                                       fitWidth="400" fitHeight="380"
+                                       preserveRatio="true"
+                                       smooth="true"/>
+                            <Label fx:id="originalPlaceholder"
+                                   text="Загрузите изображение"
+                                   styleClass="placeholder-label"/>
+                        </StackPane>
+                    </VBox>
+
+                    <!-- Стрелка -->
+                    <VBox alignment="CENTER">
+                        <ProgressIndicator fx:id="progressIndicator"
+                                           prefWidth="32" prefHeight="32"
+                                           styleClass="progress-indicator"/>
+                        <Label text="→" styleClass="arrow-label"/>
+                    </VBox>
+
+                    <!-- Результат -->
+                    <VBox styleClass="image-card" HBox.hgrow="ALWAYS" spacing="8">
+                        <HBox alignment="CENTER_LEFT" spacing="8">
+                            <Label text="Результат" styleClass="image-card-title"/>
+                            <Region HBox.hgrow="ALWAYS"/>
+                            <Label fx:id="processingTimeLabel" styleClass="time-label"/>
+                        </HBox>
+                        <StackPane VBox.vgrow="ALWAYS" styleClass="image-frame">
+                            <ImageView fx:id="resultImageView"
+                                       fitWidth="400" fitHeight="380"
+                                       preserveRatio="true"
+                                       smooth="true"/>
+                            <Label fx:id="resultPlaceholder"
+                                   text="Здесь появится результат"
+                                   styleClass="placeholder-label"/>
+                        </StackPane>
+                    </VBox>
+                </HBox>
+
+                <!-- Кнопки действий -->
+                <HBox spacing="10" alignment="CENTER_RIGHT">
+                    <Button fx:id="swapButton" text="⇄  Использовать как оригинал"
+                            styleClass="btn-secondary"
+                            onAction="#onSwapImages"/>
+                    <Button fx:id="saveButton" text="💾  Сохранить результат"
+                            styleClass="btn-secondary"
+                            onAction="#onSaveResult"/>
+                </HBox>
+            </VBox>
+
+        </HBox>
+    </center>
+
+    <!-- ═══ STATUS BAR ════════════════════════════════════════════ -->
+    <bottom>
+        <HBox styleClass="status-bar" alignment="CENTER_LEFT" spacing="12">
+            <padding><Insets top="8" right="20" bottom="8" left="20"/></padding>
+            <Label text="●" styleClass="status-dot"/>
+            <Label fx:id="statusLabel" styleClass="status-label" text="Готов к работе"/>
+        </HBox>
+    </bottom>
+
+</BorderPane>
